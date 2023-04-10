@@ -1,0 +1,27 @@
+Datos personales:
+ 
+Nombre y Apellido: Nicolas Agustin Barrionuevo
+Edad: 22
+Localidad: Cruz del eje. 
+Correo electronico: nico11kapo_barrio@hotmail.com
+
+
+Transitando instancia de ingreso:
+Estoy conforme con lo aprendido hasta el momento,Me falta practica con el tema de codigo pero vamos bien es muy bueno el tema de tener grabadas las clases para repasar lo aprendido.
+
+Habilidades cognitivas:
+
+-Memoria
+-Razonamiento
+-Pensamiento Lateral
+
+Comandos de Git
+
+-git config 
+-git clone
+-git status
+-git add
+-git commit
+-git remote rm orgigin
+-git remote add origin 
+-git push
